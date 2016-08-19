@@ -1,0 +1,10 @@
+clc
+clear
+r=10;
+i=0:2:10;
+v=i.*r
+p=v.*i
+subplot(2,1,1);
+plot(i,v,'b')
+subplot(2,1,2);
+plot(i,p,'r')

@@ -1,0 +1,939 @@
+clc
+clear
+clc
+abs(Zrect)
+{Undefined function or variable 'Zrect'.
+} 
+Q23
+Z in rectangular form is
+
+Zrect =
+
+   3.5546 + 0.5035i
+
+
+Zmag =
+
+    3.5901
+
+
+Zangle =
+
+    8.0616
+
+complex no. Z in polar form,magnitude,phase
+
+Zpolar =
+
+    3.5901    8.0616
+
+Q23
+Z in rectangular form is
+
+Zrect =
+
+   1.9108 + 5.7095i
+
+
+Zmag =
+
+    6.0208
+
+
+Zangle =
+
+   71.4966
+
+complex no. Z in polar form,magnitude,phase
+
+Zpolar =
+
+    6.0208   71.4966
+
+Q23
+Z in rectangular form is
+
+Zrect =
+
+   1.9108 + 5.7095i
+
+
+Zmag =
+
+    6.0208
+
+
+Zangle =
+
+   71.4966
+
+complex no. Z in polar form,magnitude,phase
+
+Zpolar =
+
+    6.0208   71.4966
+
+z3
+
+z3 =
+
+   1.0000 + 1.7321i
+
+Q23
+Z in rectangular form is
+
+Zmag =
+
+    6.0208
+
+
+Zangle =
+
+   71.4966
+
+complex no. Z in polar form,magnitude,phase
+
+Zpolar =
+
+    6.0208   71.4966
+
+clear
+clc
+v1
+{Undefined function or variable 'v1'.
+} 
+define v
+{Undefined function 'define' for input arguments of type 'char'.
+} 
+definev v
+{Error using <a href="matlab:helpUtils.errorDocCallback('definev', 'C:\Program Files\MATLAB\R2014a\toolbox\shared\optimlib\definev.m', 14)" style="font-weight:bold">definev</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014a\toolbox\shared\optimlib\definev.m',14,0)">line 14</a>)
+Not enough input arguments.
+} 
+%v%
+v
+{Undefined function or variable 'v'.
+} 
+Q
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',3,1)">File: Q.m Line: 3 Column: 1
+</a>At least one END is missing: the statement may begin here.
+} 
+Q
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',6,5)">File: Q.m Line: 6 Column: 5
+</a>Unexpected MATLAB operator.
+} 
+\n
+ \n
+ |
+{Error: Unexpected MATLAB operator.
+} 
+/n
+ /n
+ |
+{Error: Unexpected MATLAB operator.
+} 
+Q
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+*\n
+Q
+{Undefined function or variable 'n'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Q', 'C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m', 5)" style="font-weight:bold">Q</a> (<a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',5,0)">line 5</a>)
+    disp('*'\n)
+} 
+Q
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Q
+{Error using <a href="matlab:helpUtils.errorDocCallback('disp')" style="font-weight:bold">disp</a>
+Too many output arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Q', 'C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m', 5)" style="font-weight:bold">Q</a> (<a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',5,0)">line 5</a>)
+    disp('*')*i
+} 
+Q
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Q
+
+sum =
+
+     4
+
+
+sum =
+
+    13
+
+
+sum =
+
+    29
+
+
+sum =
+
+    54
+
+
+sum =
+
+    90
+
+
+sum =
+
+   139
+
+
+sum =
+
+   203
+
+
+sum =
+
+   284
+
+
+sum =
+
+   384
+
+
+sum =
+
+   505
+
+
+sum =
+
+   649
+
+
+sum =
+
+   818
+
+
+sum =
+
+        1014
+
+
+sum =
+
+        1239
+
+
+sum =
+
+        1495
+
+
+sum =
+
+        1784
+
+
+sum =
+
+        2108
+
+
+sum =
+
+        2469
+
+
+sum =
+
+        2869
+
+
+sum =
+
+        2869
+
+Q
+
+sum =
+
+        2869
+
+Q
+
+sum =
+
+    13
+
+Q
+
+sum =
+
+        2869
+
+Q
+
+sum =
+
+        3025
+
+Q
+
+sum =
+
+     9
+
+Q
+
+mtp =
+
+   2.0010e+22
+
+Q
+
+mtp =
+
+   6.6147e+18
+
+Q
+
+mtp =
+
+   6.6147e+18
+
+Q
+
+mtp =
+
+     9
+
+Q
+
+mtp =
+
+   324
+
+Q
+
+ans =
+
+     1
+
+
+ans =
+
+    1.4142
+
+
+ans =
+
+    1.7321
+
+
+ans =
+
+     2
+
+
+ans =
+
+    2.2361
+
+Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',4,32)">File: Q.m Line: 4 Column: 32
+</a>Unexpected MATLAB expression.
+} 
+Q
+
+ans =
+
+     1
+
+
+ans =
+
+    1.4142
+
+
+ans =
+
+    1.7321
+
+
+ans =
+
+     2
+
+
+ans =
+
+    2.2361
+
+Q
+Square root of %5.4f
+
+ans =
+
+     1
+
+Square root of %5.4f
+
+ans =
+
+    1.4142
+
+Square root of %5.4f
+
+ans =
+
+    1.7321
+
+Square root of %5.4f
+
+ans =
+
+     2
+
+Square root of %5.4f
+
+ans =
+
+    2.2361
+
+Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',4,32)">File: Q.m Line: 4 Column: 32
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.1205qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.12050qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.120qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is  0.120qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is     0.120qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.120qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.120497qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.1205qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 1.2050e-01qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 1.2050e-01qs1
+
+X =
+
+    0.8411
+    0.7206
+    0.6127
+    1.5750
+
+the current in resisitor r2 is 0.1205Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',4,32)">File: Q.m Line: 4 Column: 32
+</a>Unexpected MATLAB expression.
+} 
+sqrt(9)
+
+ans =
+
+     3
+
+Q
+{Error using <a href="matlab:helpUtils.errorDocCallback('disp')" style="font-weight:bold">disp</a>
+Too many input arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Q', 'C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m', 4)" style="font-weight:bold">Q</a> (<a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',4,0)">line 4</a>)
+    disp('Square root of %5.4f',(i))
+} 
+Q
+Square root of 1.0000
+ans =
+
+     1
+
+Square root of 2.0000
+ans =
+
+    1.4142
+
+Square root of 3.0000
+ans =
+
+    1.7321
+
+Square root of 4.0000
+ans =
+
+     2
+
+Square root of 5.0000
+ans =
+
+    2.2361
+
+Q
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q.m',5,6)">File: Q.m Line: 5 Column: 6
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+Q
+Square root of 1.0000 is
+ans =
+
+     1
+
+Square root of 2.0000 is
+ans =
+
+    1.4142
+
+Square root of 3.0000 is
+ans =
+
+    1.7321
+
+Square root of 4.0000 is
+ans =
+
+     2
+
+Square root of 5.0000 is
+ans =
+
+    2.2361
+
+Q7
+Square root of 1.0000 is
+equal =
+
+     1
+
+Square root of 2.0000 is
+equal =
+
+    1.4142
+
+Square root of 3.0000 is
+equal =
+
+    1.7321
+
+Square root of 4.0000 is
+equal =
+
+     2
+
+Square root of 5.0000 is
+equal =
+
+    2.2361
+
+Q7
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q7.m',5,5)">File: Q7.m Line: 5 Column: 5
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+Q7
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q7.m',5,11)">File: Q7.m Line: 5 Column: 11
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+Q7
+Square root of 1.0000 is
+null =
+
+     1
+
+Square root of 2.0000 is
+null =
+
+    1.4142
+
+Square root of 3.0000 is
+null =
+
+    1.7321
+
+Square root of 4.0000 is
+null =
+
+     2
+
+Square root of 5.0000 is
+null =
+
+    2.2361
+
+Q7
+Square root of 1.0000 is
+ans =
+
+     1
+
+Square root of 2.0000 is
+ans =
+
+    1.4142
+
+Square root of 3.0000 is
+ans =
+
+    1.7321
+
+Square root of 4.0000 is
+ans =
+
+     2
+
+Square root of 5.0000 is
+ans =
+
+    2.2361
+
+Q7
+Square root of 1.0000 is
+null =
+
+     1
+
+Square root of 2.0000 is
+null =
+
+    1.0000    1.4142
+
+Square root of 3.0000 is
+null =
+
+    1.0000    1.4142    1.7321
+
+Square root of 4.0000 is
+null =
+
+    1.0000    1.4142    1.7321    2.0000
+
+Square root of 5.0000 is
+null =
+
+    1.0000    1.4142    1.7321    2.0000    2.2361
+
+Q7
+{Error: <a href="matlab: opentoline('C:\Users\SKY\Documents\MATLAB\Assignment 2\Q7.m',5,9)">File: Q7.m Line: 5 Column: 9
+</a>An indexing expression on the left side of an assignment must have at least one subscript.
+} 
+Q7
+Square root of 1.0000 is
+ans =
+
+     1
+
+Square root of 2.0000 is
+ans =
+
+    1.4142
+
+Square root of 3.0000 is
+ans =
+
+    1.7321
+
+Square root of 4.0000 is
+ans =
+
+     2
+
+Square root of 5.0000 is
+ans =
+
+    2.2361
+
+exit
+Q5
+Z in rectangular form is
+
+Zrect =
+
+   1.9108 + 5.7095i
+
+
+Zmag =
+
+    6.0208
+
+
+Zangle =
+
+   71.4966
+
+complex no. Z in polar form(magnitude,phase)
+
+Zpolar =
+
+    6.0208   71.4966
+

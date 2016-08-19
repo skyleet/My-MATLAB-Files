@@ -1,0 +1,19 @@
+clc
+clear
+x=linspace(0,2*pi,100);
+y=sin(x).*sin(x);
+z=cos(x).*cos(x);
+w=sin(x).*sin(x).*cos(x).*cos(x);
+v=sin(x).*sin(x)./(cos(x).*cos(x));
+subplot(2,2,1);
+        plot(x,y,'r')
+             title('sin^2x');
+subplot(2,2,2);
+        plot(x,z,'b')
+             title('cos^2x');
+subplot(2,2,3);
+        plot(x,w,'y')
+             title('sin^2x*cos^2x');
+subplot(2,2,4);
+        plot(x,v,'g')
+             title('sin^2x/cos^2x');

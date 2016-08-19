@@ -1,0 +1,1021 @@
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+testt
+
+z =
+
+   3.5546 + 0.5035i
+
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+testt
+
+z =
+
+   1.9108 + 5.7095i
+
+plot(sin)
+{Error using <a href="matlab:helpUtils.errorDocCallback('sin')" style="font-weight:bold">sin</a>
+Not enough input arguments.
+} 
+ezplot(sin(x))
+{Undefined function or variable 'x'.
+} 
+ezplot('sin(x)')
+fplot('sin(x)')
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('fplot', 'D:\MATLAB\R2014a\toolbox\matlab\specgraph\fplot.m', 51)" style="font-weight:bold">fplot</a> (<a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\specgraph\fplot.m',51,0)">line 51</a>)
+Not enough input arguments.
+} 
+fplot('sin(x)',[-6,6])
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+q3
+
+X =
+
+    3.8594
+    0.0357
+    1.8856
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('linsolve')" style="font-weight:bold">linsolve</a>
+Not enough input arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('q3', 'D:\MATLAB\MATLAB\m_files\Assignment 1\q3.m', 6)" style="font-weight:bold">q3</a> (<a href="matlab: opentoline('D:\MATLAB\MATLAB\m_files\Assignment 1\q3.m',6,0)">line 6</a>)
+X=linsolve(A)
+} 
+q3
+
+X =
+
+    3.8594
+    0.0357
+    1.8856
+
+
+X =
+
+    3.8594
+    0.0357
+    1.8856
+
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',179,1)">open>whichWrapper at 179</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',85,1)">open at 85</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',88,1)">open at 88</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',179,1)">open>whichWrapper at 179</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',85,1)">open at 85</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',88,1)">open at 88</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+Q1
+
+A =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+
+a =
+
+     5     6
+     8     9
+
+
+b =
+
+     1     2     3
+     4     5     6
+
+
+c =
+
+     3     3
+
+
+d =
+
+     1
+     4
+     7
+     2
+     5
+     8
+     3
+     6
+     9
+
+
+e =
+
+     7     8     9
+
+
+f =
+
+     1
+     5
+     9
+
+clc
+clear
+a=rand(3,3)
+
+a =
+
+    0.1190    0.3404    0.7513
+    0.4984    0.5853    0.2551
+    0.9597    0.2238    0.5060
+
+c=a(3,:)=[]
+ c=a(3,:)=[]
+         |
+{Error: The expression to the left of the equals sign is not a valid target
+for an assignment.
+} 
+a(3,:)=[]
+
+a =
+
+    0.1190    0.3404    0.7513
+    0.4984    0.5853    0.2551
+
+Q1
+
+A =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+
+a =
+
+     5     6
+     8     9
+
+
+b =
+
+     1     2     3
+     4     5     6
+
+
+c =
+
+     3     3
+
+
+d =
+
+     1
+     4
+     7
+     2
+     5
+     8
+     3
+     6
+     9
+
+
+e =
+
+     7     8     9
+
+
+f =
+
+     1
+     5
+     9
+
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',179,1)">open>whichWrapper at 179</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',85,1)">open at 85</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',88,1)">open at 88</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+clc
+a=rand(3,3)
+
+a =
+
+    0.6991    0.5472    0.2575
+    0.8909    0.1386    0.8407
+    0.9593    0.1493    0.2543
+
+inv(a)
+
+ans =
+
+   -0.3550   -0.3961    1.6690
+    2.2809   -0.2724   -1.4092
+    0.0001    1.6541   -1.5362
+
+adjoint(a)/det(a)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+adjoint(a)./det(a)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+(1/det(a))*adjoint(a)
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+a
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+
+a =
+
+    0.6991    0.5472    0.2575
+    0.8909    0.1386    0.8407
+    0.9593    0.1493    0.2543
+
+adjoint(a)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+a=a*10
+
+a =
+
+    6.9908    5.4722    2.5751
+    8.9090    1.3862    8.4072
+    9.5929    1.4929    2.5428
+
+adjoint(a)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+A=a
+
+A =
+
+    6.9908    5.4722    2.5751
+    8.9090    1.3862    8.4072
+    9.5929    1.4929    2.5428
+
+adjoint(A)/det(A)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+a=[1 2 3;4 5 6;7 8 9]
+
+a =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+adjoint(A)/det(A)
+{Undefined function 'adjoint' for input arguments of type 'double'.
+} 
+A=single(A)
+
+A =
+
+    6.9908    5.4722    2.5751
+    8.9090    1.3862    8.4072
+    9.5929    1.4929    2.5428
+
+adjoint(A)/det(A)
+{Undefined function 'adjoint' for input arguments of type 'single'.
+} 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',179,1)">open>whichWrapper at 179</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',85,1)">open at 85</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[> In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\general\open.m',88,1)">open at 88</a>
+  In <a href="matlab: opentoline('D:\MATLAB\R2014a\toolbox\matlab\uitools\uiopen.m',167,1)">uiopen at 167</a>] 
+sqr
+
+ square of   1 is   1
+ square of   2 is   4
+ square of   3 is   9
+ square of   4 is  16
+ square of   5 is  25
+ square of   6 is  36
+ square of   7 is  49
+ square of   8 is  64
+ square of   9 is  81
+ square of  10 is 100
+ square of  11 is 121
+ square of  12 is 144
+ square of  13 is 169
+ square of  14 is 196
+ square of  15 is 225
+ square of  16 is 256
+ square of  17 is 289
+ square of  18 is 324
+ square of  19 is 361
+ square of  20 is 400
+ square of  21 is 441
+ square of  22 is 484
+ square of  23 is 529
+ square of  24 is 576
+ square of  25 is 625
+ square of  26 is 676
+ square of  27 is 729
+ square of  28 is 784
+ square of  29 is 841
+ square of  30 is 900
+ square of  31 is 961
+ square of  32 is 1024
+ square of  33 is 1089
+ square of  34 is 1156
+ square of  35 is 1225
+ square of  36 is 1296
+ square of  37 is 1369
+ square of  38 is 1444
+ square of  39 is 1521
+ square of  40 is 1600
+ square of  41 is 1681
+ square of  42 is 1764
+ square of  43 is 1849
+ square of  44 is 1936
+ square of  45 is 2025
+ square of  46 is 2116
+ square of  47 is 2209
+ square of  48 is 2304
+ square of  49 is 2401
+ square of  50 is 2500
+ square of  51 is 2601
+ square of  52 is 2704
+ square of  53 is 2809
+ square of  54 is 2916
+ square of  55 is 3025
+ square of  56 is 3136
+ square of  57 is 3249
+ square of  58 is 3364
+ square of  59 is 3481
+ square of  60 is 3600
+ square of  61 is 3721
+ square of  62 is 3844
+ square of  63 is 3969
+ square of  64 is 4096
+ square of  65 is 4225
+ square of  66 is 4356
+ square of  67 is 4489
+ square of  68 is 4624
+ square of  69 is 4761
+ square of  70 is 4900
+ square of  71 is 5041
+ square of  72 is 5184
+ square of  73 is 5329
+ square of  74 is 5476
+ square of  75 is 5625
+ square of  76 is 5776
+ square of  77 is 5929
+ square of  78 is 6084
+ square of  79 is 6241
+ square of  80 is 6400
+ square of  81 is 6561
+ square of  82 is 6724
+ square of  83 is 6889
+ square of  84 is 7056
+ square of  85 is 7225
+ square of  86 is 7396
+ square of  87 is 7569
+ square of  88 is 7744
+ square of  89 is 7921
+ square of  90 is 8100
+ square of  91 is 8281
+ square of  92 is 8464
+ square of  93 is 8649
+ square of  94 is 8836
+ square of  95 is 9025
+ square of  96 is 9216
+ square of  97 is 9409
+ square of  98 is 9604
+ square of  99 is 9801
+ square of 100 is 10000[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+
+ square of 1 is   1
+ square of 2 is   4
+ square of 3 is   9
+ square of 4 is  16
+ square of 5 is  25
+ square of 6 is  36
+ square of 7 is  49
+ square of 8 is  64
+ square of 9 is  81
+ square of 10 is 100
+ square of 11 is 121
+ square of 12 is 144
+ square of 13 is 169
+ square of 14 is 196
+ square of 15 is 225
+ square of 16 is 256
+ square of 17 is 289
+ square of 18 is 324
+ square of 19 is 361
+ square of 20 is 400
+ square of 21 is 441
+ square of 22 is 484
+ square of 23 is 529
+ square of 24 is 576
+ square of 25 is 625
+ square of 26 is 676
+ square of 27 is 729
+ square of 28 is 784
+ square of 29 is 841
+ square of 30 is 900
+ square of 31 is 961
+ square of 32 is 1024
+ square of 33 is 1089
+ square of 34 is 1156
+ square of 35 is 1225
+ square of 36 is 1296
+ square of 37 is 1369
+ square of 38 is 1444
+ square of 39 is 1521
+ square of 40 is 1600
+ square of 41 is 1681
+ square of 42 is 1764
+ square of 43 is 1849
+ square of 44 is 1936
+ square of 45 is 2025
+ square of 46 is 2116
+ square of 47 is 2209
+ square of 48 is 2304
+ square of 49 is 2401
+ square of 50 is 2500
+ square of 51 is 2601
+ square of 52 is 2704
+ square of 53 is 2809
+ square of 54 is 2916
+ square of 55 is 3025
+ square of 56 is 3136
+ square of 57 is 3249
+ square of 58 is 3364
+ square of 59 is 3481
+ square of 60 is 3600
+ square of 61 is 3721
+ square of 62 is 3844
+ square of 63 is 3969
+ square of 64 is 4096
+ square of 65 is 4225
+ square of 66 is 4356
+ square of 67 is 4489
+ square of 68 is 4624
+ square of 69 is 4761
+ square of 70 is 4900
+ square of 71 is 5041
+ square of 72 is 5184
+ square of 73 is 5329
+ square of 74 is 5476
+ square of 75 is 5625
+ square of 76 is 5776
+ square of 77 is 5929
+ square of 78 is 6084
+ square of 79 is 6241
+ square of 80 is 6400
+ square of 81 is 6561
+ square of 82 is 6724
+ square of 83 is 6889
+ square of 84 is 7056
+ square of 85 is 7225
+ square of 86 is 7396
+ square of 87 is 7569
+ square of 88 is 7744
+ square of 89 is 7921
+ square of 90 is 8100
+ square of 91 is 8281
+ square of 92 is 8464
+ square of 93 is 8649
+ square of 94 is 8836
+ square of 95 is 9025
+ square of 96 is 9216
+ square of 97 is 9409
+ square of 98 is 9604
+ square of 99 is 9801
+ square of 100 is 10000[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+
+ square of 1 is 1
+ square of 2 is 4
+ square of 3 is 9
+ square of 4 is 16
+ square of 5 is 25
+ square of 6 is 36
+ square of 7 is 49
+ square of 8 is 64
+ square of 9 is 81
+ square of 10 is 100
+ square of 11 is 121
+ square of 12 is 144
+ square of 13 is 169
+ square of 14 is 196
+ square of 15 is 225
+ square of 16 is 256
+ square of 17 is 289
+ square of 18 is 324
+ square of 19 is 361
+ square of 20 is 400
+ square of 21 is 441
+ square of 22 is 484
+ square of 23 is 529
+ square of 24 is 576
+ square of 25 is 625
+ square of 26 is 676
+ square of 27 is 729
+ square of 28 is 784
+ square of 29 is 841
+ square of 30 is 900
+ square of 31 is 961
+ square of 32 is 1024
+ square of 33 is 1089
+ square of 34 is 1156
+ square of 35 is 1225
+ square of 36 is 1296
+ square of 37 is 1369
+ square of 38 is 1444
+ square of 39 is 1521
+ square of 40 is 1600
+ square of 41 is 1681
+ square of 42 is 1764
+ square of 43 is 1849
+ square of 44 is 1936
+ square of 45 is 2025
+ square of 46 is 2116
+ square of 47 is 2209
+ square of 48 is 2304
+ square of 49 is 2401
+ square of 50 is 2500
+ square of 51 is 2601
+ square of 52 is 2704
+ square of 53 is 2809
+ square of 54 is 2916
+ square of 55 is 3025
+ square of 56 is 3136
+ square of 57 is 3249
+ square of 58 is 3364
+ square of 59 is 3481
+ square of 60 is 3600
+ square of 61 is 3721
+ square of 62 is 3844
+ square of 63 is 3969
+ square of 64 is 4096
+ square of 65 is 4225
+ square of 66 is 4356
+ square of 67 is 4489
+ square of 68 is 4624
+ square of 69 is 4761
+ square of 70 is 4900
+ square of 71 is 5041
+ square of 72 is 5184
+ square of 73 is 5329
+ square of 74 is 5476
+ square of 75 is 5625
+ square of 76 is 5776
+ square of 77 is 5929
+ square of 78 is 6084
+ square of 79 is 6241
+ square of 80 is 6400
+ square of 81 is 6561
+ square of 82 is 6724
+ square of 83 is 6889
+ square of 84 is 7056
+ square of 85 is 7225
+ square of 86 is 7396
+ square of 87 is 7569
+ square of 88 is 7744
+ square of 89 is 7921
+ square of 90 is 8100
+ square of 91 is 8281
+ square of 92 is 8464
+ square of 93 is 8649
+ square of 94 is 8836
+ square of 95 is 9025
+ square of 96 is 9216
+ square of 97 is 9409
+ square of 98 is 9604
+ square of 99 is 9801
+ square of 100 is 10000[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+
+ square of 1.00 is 1.00000
+ square of 2.00 is 4.00000
+ square of 3.00 is 9.00000
+ square of 4.00 is 16.00000
+ square of 5.00 is 25.00000
+ square of 6.00 is 36.00000
+ square of 7.00 is 49.00000
+ square of 8.00 is 64.00000
+ square of 9.00 is 81.00000
+ square of 10.00 is 100.00000
+ square of 11.00 is 121.00000
+ square of 12.00 is 144.00000
+ square of 13.00 is 169.00000
+ square of 14.00 is 196.00000
+ square of 15.00 is 225.00000
+ square of 16.00 is 256.00000
+ square of 17.00 is 289.00000
+ square of 18.00 is 324.00000
+ square of 19.00 is 361.00000
+ square of 20.00 is 400.00000
+ square of 21.00 is 441.00000
+ square of 22.00 is 484.00000
+ square of 23.00 is 529.00000
+ square of 24.00 is 576.00000
+ square of 25.00 is 625.00000
+ square of 26.00 is 676.00000
+ square of 27.00 is 729.00000
+ square of 28.00 is 784.00000
+ square of 29.00 is 841.00000
+ square of 30.00 is 900.00000
+ square of 31.00 is 961.00000
+ square of 32.00 is 1024.00000
+ square of 33.00 is 1089.00000
+ square of 34.00 is 1156.00000
+ square of 35.00 is 1225.00000
+ square of 36.00 is 1296.00000
+ square of 37.00 is 1369.00000
+ square of 38.00 is 1444.00000
+ square of 39.00 is 1521.00000
+ square of 40.00 is 1600.00000
+ square of 41.00 is 1681.00000
+ square of 42.00 is 1764.00000
+ square of 43.00 is 1849.00000
+ square of 44.00 is 1936.00000
+ square of 45.00 is 2025.00000
+ square of 46.00 is 2116.00000
+ square of 47.00 is 2209.00000
+ square of 48.00 is 2304.00000
+ square of 49.00 is 2401.00000
+ square of 50.00 is 2500.00000
+ square of 51.00 is 2601.00000
+ square of 52.00 is 2704.00000
+ square of 53.00 is 2809.00000
+ square of 54.00 is 2916.00000
+ square of 55.00 is 3025.00000
+ square of 56.00 is 3136.00000
+ square of 57.00 is 3249.00000
+ square of 58.00 is 3364.00000
+ square of 59.00 is 3481.00000
+ square of 60.00 is 3600.00000
+ square of 61.00 is 3721.00000
+ square of 62.00 is 3844.00000
+ square of 63.00 is 3969.00000
+ square of 64.00 is 4096.00000
+ square of 65.00 is 4225.00000
+ square of 66.00 is 4356.00000
+ square of 67.00 is 4489.00000
+ square of 68.00 is 4624.00000
+ square of 69.00 is 4761.00000
+ square of 70.00 is 4900.00000
+ square of 71.00 is 5041.00000
+ square of 72.00 is 5184.00000
+ square of 73.00 is 5329.00000
+ square of 74.00 is 5476.00000
+ square of 75.00 is 5625.00000
+ square of 76.00 is 5776.00000
+ square of 77.00 is 5929.00000
+ square of 78.00 is 6084.00000
+ square of 79.00 is 6241.00000
+ square of 80.00 is 6400.00000
+ square of 81.00 is 6561.00000
+ square of 82.00 is 6724.00000
+ square of 83.00 is 6889.00000
+ square of 84.00 is 7056.00000
+ square of 85.00 is 7225.00000
+ square of 86.00 is 7396.00000
+ square of 87.00 is 7569.00000
+ square of 88.00 is 7744.00000
+ square of 89.00 is 7921.00000
+ square of 90.00 is 8100.00000
+ square of 91.00 is 8281.00000
+ square of 92.00 is 8464.00000
+ square of 93.00 is 8649.00000
+ square of 94.00 is 8836.00000
+ square of 95.00 is 9025.00000
+ square of 96.00 is 9216.00000
+ square of 97.00 is 9409.00000
+ square of 98.00 is 9604.00000
+ square of 99.00 is 9801.00000
+ square of 100.00 is 10000.00000[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+
+ square of    1 is    1
+ square of    2 is    4
+ square of    3 is    9
+ square of    4 is   16
+ square of    5 is   25
+ square of    6 is   36
+ square of    7 is   49
+ square of    8 is   64
+ square of    9 is   81
+ square of   10 is  100
+ square of   11 is  121
+ square of   12 is  144
+ square of   13 is  169
+ square of   14 is  196
+ square of   15 is  225
+ square of   16 is  256
+ square of   17 is  289
+ square of   18 is  324
+ square of   19 is  361
+ square of   20 is  400
+ square of   21 is  441
+ square of   22 is  484
+ square of   23 is  529
+ square of   24 is  576
+ square of   25 is  625
+ square of   26 is  676
+ square of   27 is  729
+ square of   28 is  784
+ square of   29 is  841
+ square of   30 is  900
+ square of   31 is  961
+ square of   32 is 1024
+ square of   33 is 1089
+ square of   34 is 1156
+ square of   35 is 1225
+ square of   36 is 1296
+ square of   37 is 1369
+ square of   38 is 1444
+ square of   39 is 1521
+ square of   40 is 1600
+ square of   41 is 1681
+ square of   42 is 1764
+ square of   43 is 1849
+ square of   44 is 1936
+ square of   45 is 2025
+ square of   46 is 2116
+ square of   47 is 2209
+ square of   48 is 2304
+ square of   49 is 2401
+ square of   50 is 2500
+ square of   51 is 2601
+ square of   52 is 2704
+ square of   53 is 2809
+ square of   54 is 2916
+ square of   55 is 3025
+ square of   56 is 3136
+ square of   57 is 3249
+ square of   58 is 3364
+ square of   59 is 3481
+ square of   60 is 3600
+ square of   61 is 3721
+ square of   62 is 3844
+ square of   63 is 3969
+ square of   64 is 4096
+ square of   65 is 4225
+ square of   66 is 4356
+ square of   67 is 4489
+ square of   68 is 4624
+ square of   69 is 4761
+ square of   70 is 4900
+ square of   71 is 5041
+ square of   72 is 5184
+ square of   73 is 5329
+ square of   74 is 5476
+ square of   75 is 5625
+ square of   76 is 5776
+ square of   77 is 5929
+ square of   78 is 6084
+ square of   79 is 6241
+ square of   80 is 6400
+ square of   81 is 6561
+ square of   82 is 6724
+ square of   83 is 6889
+ square of   84 is 7056
+ square of   85 is 7225
+ square of   86 is 7396
+ square of   87 is 7569
+ square of   88 is 7744
+ square of   89 is 7921
+ square of   90 is 8100
+ square of   91 is 8281
+ square of   92 is 8464
+ square of   93 is 8649
+ square of   94 is 8836
+ square of   95 is 9025
+ square of   96 is 9216
+ square of   97 is 9409
+ square of   98 is 9604
+ square of   99 is 9801
+ square of  100 is 10000[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+{Error: <a href="matlab: opentoline('D:\MATLAB\MATLAB\sqr.m',4,43)">File: sqr.m Line: 4 Column: 43
+</a>Unexpected MATLAB expression.
+} 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+{Error: <a href="matlab: opentoline('D:\MATLAB\MATLAB\sqr.m',4,45)">File: sqr.m Line: 4 Column: 45
+</a>Unexpected MATLAB expression.
+} 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+sqr
+
+ square of    1 is    1
+ square of    2 is    4
+ square of    3 is    9
+ square of    4 is   16
+ square of    5 is   25
+ square of    6 is   36
+ square of    7 is   49
+ square of    8 is   64
+ square of    9 is   81
+ square of   10 is  100
+ square of   11 is  121
+ square of   12 is  144
+ square of   13 is  169
+ square of   14 is  196
+ square of   15 is  225
+ square of   16 is  256
+ square of   17 is  289
+ square of   18 is  324
+ square of   19 is  361
+ square of   20 is  400
+ square of   21 is  441
+ square of   22 is  484
+ square of   23 is  529
+ square of   24 is  576
+ square of   25 is  625
+ square of   26 is  676
+ square of   27 is  729
+ square of   28 is  784
+ square of   29 is  841
+ square of   30 is  900
+ square of   31 is  961
+ square of   32 is 1024
+ square of   33 is 1089
+ square of   34 is 1156
+ square of   35 is 1225
+ square of   36 is 1296
+ square of   37 is 1369
+ square of   38 is 1444
+ square of   39 is 1521
+ square of   40 is 1600
+ square of   41 is 1681
+ square of   42 is 1764
+ square of   43 is 1849
+ square of   44 is 1936
+ square of   45 is 2025
+ square of   46 is 2116
+ square of   47 is 2209
+ square of   48 is 2304
+ square of   49 is 2401
+ square of   50 is 2500
+ square of   51 is 2601
+ square of   52 is 2704
+ square of   53 is 2809
+ square of   54 is 2916
+ square of   55 is 3025
+ square of   56 is 3136
+ square of   57 is 3249
+ square of   58 is 3364
+ square of   59 is 3481
+ square of   60 is 3600
+ square of   61 is 3721
+ square of   62 is 3844
+ square of   63 is 3969
+ square of   64 is 4096
+ square of   65 is 4225
+ square of   66 is 4356
+ square of   67 is 4489
+ square of   68 is 4624
+ square of   69 is 4761
+ square of   70 is 4900
+ square of   71 is 5041
+ square of   72 is 5184
+ square of   73 is 5329
+ square of   74 is 5476
+ square of   75 is 5625
+ square of   76 is 5776
+ square of   77 is 5929
+ square of   78 is 6084
+ square of   79 is 6241
+ square of   80 is 6400
+ square of   81 is 6561
+ square of   82 is 6724
+ square of   83 is 6889
+ square of   84 is 7056
+ square of   85 is 7225
+ square of   86 is 7396
+ square of   87 is 7569
+ square of   88 is 7744
+ square of   89 is 7921
+ square of   90 is 8100
+ square of   91 is 8281
+ square of   92 is 8464
+ square of   93 is 8649
+ square of   94 is 8836
+ square of   95 is 9025
+ square of   96 is 9216
+ square of   97 is 9409
+ square of   98 is 9604
+ square of   99 is 9801
+ square of  100 is 100003+4i
+
+ans =
+
+   3.0000 + 4.0000i
+
+3+4j
+
+ans =
+
+   3.0000 + 4.0000i
+
+3+j4
+{Undefined function or variable 'j4'.
+} 
+(1+2i)*(1+2i)
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+
+ans =
+
+  -3.0000 + 4.0000i
+
+[Warning: Function power has the same name as a MATLAB builtin. We suggest
+you rename the function to avoid a potential name conflict.] 
+2*exp(60*pi/180)
+
+ans =
+
+    5.6993
+
+2*exp(i*60*pi/180)
+
+ans =
+
+   6.0290e+45
+
+2*exp(i(60*pi/180))
+{Subscript indices must either be real positive integers or logicals.
+} 
+Q5
+Z in rectangular form is
+
+Zrect =
+
+   1.9108 + 5.7095i
+
+
+Zmag =
+
+    6.0208
+
+
+Zangle =
+
+   71.4966
+
+complex no. Z in polar form(magnitude,phase)
+
+Zpolar =
+
+    6.0208   71.4966
+

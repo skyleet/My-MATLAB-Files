@@ -1,0 +1,13 @@
+clc
+clear
+t=0:0.01:2*pi;
+f=1+2*sin(t).^2;
+figure
+subplot(2,2,1)
+polar(t,f,'r')
+subplot(2,2,2)
+ezpolar('1+2*(sin(t)^2)')
+subplot(2,2,3)
+plot(t,f)
+subplot(2,2,4)
+ezpolar('4+4*tan(t)',[-1,1])
